@@ -1,0 +1,42 @@
+Object Oriented is A Programming Methodology that simplify the Software Devlopment &  Maintenance, By providding Some Rules .
+
+The Basic Concept of OOPs :-
+1>  Class 
+2> Object
+3> Encapsulation
+4> Polymorphism
+5> Inheritence
+6> Abstraction 
+
+
+Class:-    The Class is nothing just a representation os silimar type of onject. Class means Something must be categorized. It's also called Blue Print or tamplete. The Tapmlete describes the kinds od State and Behaviour.
+
+Class contails Data Members and Member Funtions
+    The Data Members shows the property of an object .
+    The Member Function shows the Behaviour of an Object. 
+
+
+Object:-     Any Entity that has state and Behaviour is known as Object. Object created on the base od Class. 
+
+
+
+
+
+Encapsulation:-       Encapsulation is the mechanism to binds the Data Members and Member Funtions together. And Variable of the code keep safe from Outside Misuse or Interferece.
+Eg:- Class is the greatest Example of Encapsulation.
+
+
+Polymorphism:-   Polymorphism means many Forms , this is the Concept of OOps for Reducing Complexity od an Object. It can be Achieved by Behaviour of an Object.
+
+ There are 2 type of Polymorphism
+   1> Compile Time Polymorphism
+        *> Function OverLoading
+
+   2> Run Time Polymorphism
+        *> Function OverRidding
+
+
+
+
+
+
