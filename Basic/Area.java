@@ -8,12 +8,12 @@ public class Area {
         System.out.println("Enter the base of Triangle: ");
         int base = scan.nextInt();
 
-        System.out.println("Enter the height of triengle : ");
+        System.out.println("Enter the height of triangle : ");
         int height = scan.nextInt();
 
         float  area =  (float)1/2*base * height;
 
-        System.out.println("The Area of Triengle Is : " +area );
+        System.out.println("The Area of Triangle Is : " +area );
         scan.close();
         
     }
